@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm CW Lee 👋
+# 안녕하세요, CW Lee입니다 👋
 
-**Software developer building practical products across backend, mobile, machine learning, and embedded systems.**
+**백엔드·모바일·머신러닝·임베디드 시스템을 연결해 실제로 쓰이는 제품을 만드는 개발자입니다.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kuseumkkrkkr-181717?style=flat-square&logo=github)](https://github.com/kuseumkkrkkr)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cwLeeDev-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)](https://huggingface.co/cwLeeDev)
@@ -10,14 +10,14 @@
 
 </div>
 
-## About
+## 소개
 
-- Based in Sejong, Korea
-- Interested in turning ideas into useful, reliable products
-- Comfortable moving between product code, model experiments, and hardware-facing interfaces
-- Currently exploring on-device ML, learning tools, and developer-friendly AI systems
+- 세종·조치원에서 개발하고 있습니다.
+- 아이디어를 실제 서비스와 제품으로 구현하는 과정을 좋아합니다.
+- 앱, 서버, 모델, 하드웨어가 만나는 지점을 주로 탐구합니다.
+- 현재는 온디바이스 AI, 학습 도구, 사용자 경험을 개선하는 기술에 관심이 있습니다.
 
-## What I work with
+## 사용하는 기술
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -30,26 +30,26 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase">
 </p>
 
-## Selected work
+## 대표 작업
 
-| Project | What it is | Focus |
+현재 프로필에 고정해 둔 저장소만 정리했습니다.
+
+| 저장소 | 설명 | 주요 기술 |
 | --- | --- | --- |
-| [AIFlow-Core](https://github.com/kuseumkkrkkr/AIFlow-Core) | A problem-generation and validation engine | Python · APIs · structured data |
-| [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) | Research notes and interface work for E-ink learning | ML · handwriting · on-device systems |
-| [Roomantic](https://github.com/kuseumkkrkkr/Roomantic) | A mobile and backend product experiment | Flutter · Flask · matching logic |
-| [T-SUM-2025](https://github.com/kuseumkkrkkr/T-SUM-2025) | A labor-law search and retrieval experiment | Embeddings · RAG · data processing |
-| [MindFlora](https://github.com/kuseumkkrkkr/MindFlora) | A hardware and interaction prototype | IoT · circuits · ambient interfaces |
+| [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) | E-ink 학습 인터페이스와 수학 필기 인식 연구 자료 | ML · 필기 인식 · 온디바이스 |
+| [MindFlora](https://github.com/kuseumkkrkkr/MindFlora) | SmartPottery 기반 회로·감정·기억 인터랙션 실험 | C++ · IoT · 하드웨어 |
+| [Roomantic](https://github.com/kuseumkkrkkr/Roomantic) | 모바일 앱과 백엔드로 구현한 매칭 서비스 실험 | Flutter · Flask · 서비스 개발 |
+| [Upstudy-app](https://github.com/kuseumkkrkkr/Upstudy-app) | 학습 흐름과 사용자 경험을 실험하는 모바일 앱 | Dart · Flutter · 앱 개발 |
+| [AIFlow-Core](https://github.com/kuseumkkrkkr/AIFlow-Core) | 문제 생성과 조건 검증을 담당하는 핵심 엔진 | Python · API · 데이터 처리 |
 
-## Currently
+## 최근 관심사
 
-I am improving the boundary between software and physical interaction: smaller models, clearer APIs, and interfaces that make complex tools easier to use.
+작은 모델을 실제 제품에 연결하고, 복잡한 기능을 사용자가 쉽게 이해할 수 있는 인터페이스로 만드는 일을 계속하고 있습니다.
 
-## Open models
-
-My public model experiments are available on [Hugging Face](https://huggingface.co/cwLeeDev). I publish model cards, research notes, and implementation details alongside the checkpoints whenever possible.
+공개 모델과 연구 자료는 [Hugging Face의 cwLeeDev 페이지](https://huggingface.co/cwLeeDev)에서 확인할 수 있습니다.
 
 <div align="center">
 
-<sub>Build useful things. Keep learning. Share the work.</sub>
+<sub>만들고, 배우고, 공유합니다.</sub>
 
 </div>
