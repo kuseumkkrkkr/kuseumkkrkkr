@@ -2,7 +2,6 @@
 
 # 안녕하세요, CW Lee입니다 👋
 
-**백엔드·모바일·머신러닝·임베디드 시스템을 연결해 실제로 쓰이는 제품을 만드는 개발자입니다.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kuseumkkrkkr-181717?style=flat-square&logo=github)](https://github.com/kuseumkkrkkr)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cwLeeDev-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)](https://huggingface.co/cwLeeDev)
