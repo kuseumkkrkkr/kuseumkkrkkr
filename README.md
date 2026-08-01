@@ -1,6 +1,6 @@
 <div align="center">
 
-![AIFlow Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:2563EB,100:22C55E&text=AIFlow&fontColor=FFFFFF&fontSize=64&fontAlignY=37&desc=E-ink%20learning%20interface%20%7C%20Math%20Ink%20models%20%7C%20AI%20product%20builder&descSize=17&descAlignY=58&animation=fadeIn)
+![AIFlow Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:1D4ED8,100:16A34A&text=AIFlow&fontColor=FFFFFF&fontSize=64&fontAlignY=37&desc=E-ink%20learning%20interface%20%7C%20Math%20Ink%20models%20%7C%20AI%20product%20builder&descSize=17&descAlignY=58&animation=fadeIn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-kuseumkkrkkr-181717?style=for-the-badge&logo=github)](https://github.com/kuseumkkrkkr)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cwLeeDev-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/cwLeeDev)
@@ -8,7 +8,20 @@
 
 </div>
 
-## Building
+<div align="center">
+
+### Models → Interfaces → Learning Loops
+
+AIFlow connects handwriting recognition, problem generation, and low-power learning hardware.
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/kuseumkkrkkr/AIFlow-Eink"><img src="https://img.shields.io/badge/Explore-AIFlow--Eink-2563EB?style=for-the-badge&logo=github" alt="Explore AIFlow E-ink"></a>
+  <a href="https://huggingface.co/cwLeeDev"><img src="https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="AIFlow models on Hugging Face"></a>
+</p>
+
+## What I’m building
 
 AIFlow는 문제 생성 엔진, 필기 인식 모델, E-ink 학습 인터페이스를 하나의 학습 흐름으로 묶는 프로젝트입니다.
 
@@ -22,7 +35,19 @@ student handwriting
   -> E-ink learning loop
 ```
 
-## AIFlow Focus
+## The AIFlow loop
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kuseumkkrkkr/AIFlow-Eink/main/models/AIFlow-Math-Ink-0.5/assets/architecture.svg" alt="AIFlow Math Ink architecture" width="760">
+
+</div>
+
+```text
+handwriting → strokes / points → Math Ink → understanding → feedback
+```
+
+## Focus areas
 
 | Area | Work |
 | --- | --- |
@@ -31,14 +56,14 @@ student handwriting
 | E-ink Service | 저전력 학습 기기에서 문제 풀이와 피드백을 연결하는 인터페이스 |
 | Product Apps | Flutter 앱과 Python 백엔드로 실제 사용자 흐름 검증 |
 
-## Open Models
+## Open models
 
 | Model | Notes |
 | --- | --- |
 | [AIFlow-Math-Ink-0.5](https://huggingface.co/cwLeeDev/AIFlow-Math-Ink-0.5) | AIFlow Math Ink 공개 모델 |
 | [aiflow-math-ink-06-intermediate](https://huggingface.co/cwLeeDev/aiflow-math-ink-06-intermediate) | point/stroke sequence 기반 온디바이스 연구 checkpoint |
 
-## Projects
+## Featured repositories
 
 | Repository | Role |
 | --- | --- |
@@ -62,18 +87,17 @@ student handwriting
 
 </div>
 
-## GitHub
+## Explore
+
+| Start here | Link |
+| --- | --- |
+| E-ink interface, model cards, and research notes | [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) |
+| Public model cards and checkpoints | [Hugging Face / cwLeeDev](https://huggingface.co/cwLeeDev) |
+| AIFlow problem generation and validation | [AIFlow-Core](https://github.com/kuseumkkrkkr/AIFlow-Core) |
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuseumkkrkkr&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuseumkkrkkr&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
-<div align="center">
-
-<sub>AIFlow CEO · AI product builder · learning systems with models, apps, and hardware interfaces</sub>
+<sub>AIFlow CEO · Sejong, Korea · building humane learning systems with models, apps, and hardware</sub>
 
 </div>
 
