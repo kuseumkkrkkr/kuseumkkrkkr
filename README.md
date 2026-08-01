@@ -1,47 +1,68 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:F59E0B&height=210&section=header&text=cw_lee_kus&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIFlow%20CEO%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=18)
+![AIFlow Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:2563EB,100:22C55E&text=AIFlow&fontColor=FFFFFF&fontSize=64&fontAlignY=37&desc=E-ink%20learning%20interface%20%7C%20Math%20Ink%20models%20%7C%20AI%20product%20builder&descSize=17&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=720&lines=Building+AIFlow+Core+and+learning+products;Flutter+%2B+Python+%2B+AI+systems;RAG%2C+reasoning+pipelines%2C+embedded+experiments)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-kuseumkkrkkr-181717?style=for-the-badge&logo=github)](https://github.com/kuseumkkrkkr)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cwLeeDev-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)](https://huggingface.co/cwLeeDev)
+[![Email](https://img.shields.io/badge/Email-cw20208021%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cw20208021@gmail.com)
 
 </div>
 
-## About
+## Building
 
-Sejong, Korea에서 AIFlow를 만들고 있습니다.  
-AI 문제 생성 엔진, 학습 앱, RAG 파이프라인, 임베디드 실험처럼 실제 제품으로 이어지는 AI 시스템을 주로 다룹니다.
+AIFlow는 문제 생성 엔진, 필기 인식 모델, E-ink 학습 인터페이스를 하나의 학습 흐름으로 묶는 프로젝트입니다.
 
-- 현재 집중: `AIFlow-Core`, Flutter 기반 학습/매칭 앱, Python AI 백엔드
-- 관심 분야: AI reasoning, RAG, education tech, mobile app, embedded AI
-- 작업 방식: 빠르게 만들고, 실제 사용자 흐름에서 검증하고, 필요한 만큼만 복잡하게 설계합니다
+저는 Sejong, Korea에서 AIFlow를 만들고 있고, 지금은 수학 필기 데이터를 더 가볍게 처리하는 온디바이스 모델과 E-ink 기반 학습 경험에 집중하고 있습니다.
 
-## Tech Stack
+```text
+student handwriting
+  -> stroke / point sequence
+  -> Math Ink model
+  -> problem understanding
+  -> E-ink learning loop
+```
+
+## AIFlow Focus
+
+| Area | Work |
+| --- | --- |
+| AIFlow Core | 조건 검증, 난이도 제어, JSON 기반 문제 생성 파이프라인 |
+| Math Ink | 수학 필기를 이미지보다 point/stroke sequence 중심으로 처리하는 모델 실험 |
+| E-ink Service | 저전력 학습 기기에서 문제 풀이와 피드백을 연결하는 인터페이스 |
+| Product Apps | Flutter 앱과 Python 백엔드로 실제 사용자 흐름 검증 |
+
+## Open Models
+
+| Model | Notes |
+| --- | --- |
+| [AIFlow-Math-Ink-0.5](https://huggingface.co/cwLeeDev/AIFlow-Math-Ink-0.5) | AIFlow Math Ink 공개 모델 |
+| [aiflow-math-ink-06-intermediate](https://huggingface.co/cwLeeDev/aiflow-math-ink-06-intermediate) | point/stroke sequence 기반 온디바이스 연구 checkpoint |
+
+## Projects
+
+| Repository | Role |
+| --- | --- |
+| [AIFlow-Core](https://github.com/kuseumkkrkkr/AIFlow-Core) | 문제 생성과 검증을 담당하는 AIFlow 핵심 엔진 |
+| [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) | Hugging Face 모델과 연결되는 AIFlow E-ink 서비스 |
+| [Roomantic](https://github.com/kuseumkkrkkr/Roomantic) | Flutter 앱, Flask 백엔드, 매칭 로직을 포함한 제품 실험 |
+| [T-SUM-2025](https://github.com/kuseumkkrkkr/T-SUM-2025) | 노동법 데이터를 활용한 embedding/RAG 프로젝트 |
+| [MindFlora](https://github.com/kuseumkkrkkr/MindFlora) | SmartPottery 회로와 감정/메모리 기반 AI 실험 |
+
+## Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0EA5E9?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0284C7?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1F2937?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
 
 </div>
 
-## Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [AIFlow-Core](https://github.com/kuseumkkrkkr/AIFlow-Core) | 문제 생성, 조건 검증, 난이도 제어를 위한 AIFlow 핵심 엔진 | Python |
-| [Roomantic](https://github.com/kuseumkkrkkr/Roomantic) | 기숙사 룸메이트 매칭을 위한 Flutter 앱과 Flask 백엔드 | Flutter, Dart, Python |
-| [T-SUM-2025](https://github.com/kuseumkkrkkr/T-SUM-2025) | 노동법 데이터를 임베딩하고 구조화된 CoT/RAG 흐름으로 검색하는 AI 프로젝트 | Python, RAG |
-| [MindFlora](https://github.com/kuseumkkrkkr/MindFlora) | SmartPottery 프로젝트 회로와 감정/메모리 기반 AI 실험 | C++ |
-| [FoodFlow](https://github.com/kuseumkkrkkr/FoodFlow) | 학생창업주간 FoodFlow 웹 프로젝트 | HTML |
-| [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) | AIFlow의 E-ink 서비스 실험 | E-ink, AIFlow |
-
-## GitHub Snapshot
+## GitHub
 
 <div align="center">
 
@@ -50,20 +71,9 @@ AI 문제 생성 엔진, 학습 앱, RAG 파이프라인, 임베디드 실험처
 
 </div>
 
-## Direction
-
-```text
-AI product idea
-  -> data and UX flow
-  -> prototype
-  -> validation
-  -> engine/product refinement
-```
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kuseumkkrkkr-181717?style=for-the-badge&logo=github)](https://github.com/kuseumkkrkkr)
-[![Email](https://img.shields.io/badge/Email-cw20208021%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cw20208021@gmail.com)
+<sub>AIFlow CEO · AI product builder · learning systems with models, apps, and hardware interfaces</sub>
 
 </div>
 
