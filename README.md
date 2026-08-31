@@ -35,6 +35,7 @@
 
 | 저장소 | 설명 | 주요 기술 |
 | --- | --- | --- |
+| [버스로 잇다](https://github.com/kuseumkkrkkr/busro-itda) | 전국 시내버스 노선·정류장을 연결해 여행 경로를 탐색하는 웹 앱 | Python · Dijkstra · TAGO · OSM |
 | [AIFlow-Eink](https://github.com/kuseumkkrkkr/AIFlow-Eink) | E-ink 학습 인터페이스와 수학 필기 인식 연구 자료 | ML · 필기 인식 · 온디바이스 |
 | [MindFlora](https://github.com/kuseumkkrkkr/MindFlora) | SmartPottery 기반 회로·감정·기억 인터랙션 실험 | C++ · IoT · 하드웨어 |
 | [Roomantic](https://github.com/kuseumkkrkkr/Roomantic) | 모바일 앱과 백엔드로 구현한 매칭 서비스 실험 | Flutter · Flask · 서비스 개발 |
